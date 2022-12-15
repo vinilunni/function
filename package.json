@@ -1,5 +1,5 @@
 {
-    "name": "function",
+    "name": "send_email_sendgrid",
     "version": "0.0.1",
     "description": "",
     "main": "index.js",

@@ -1,9 +1,9 @@
 {
-  "name": "function",
+  "name": "send_email_sendgrid",
   "type": "function",
   "source": {
-    "https": "https://github.com/vinilunni/function",
-    "ssh": "git@github.com:vinilunni/function.git"
+    "https": "https://github.com/vinilunni/send_email_sendgrid",
+    "ssh": "git@github.com:vinilunni/send_email_sendgrid.git"
   },
   "language": "nodejs",
   "start": "node index.js",

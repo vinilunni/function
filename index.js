@@ -1,6 +1,6 @@
 
 
-const function = async (req, res) => {
+const send_email_sendgrid = async (req, res) => {
 
   // health check
   if (req.params["health"] === "health") {
@@ -14,4 +14,4 @@ const function = async (req, res) => {
   
 }
 
-export default function
+export default send_email_sendgrid
